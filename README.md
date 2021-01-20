@@ -1,7 +1,8 @@
 # Method of Reproduction
 ## 執行
-使用jupyternotebook執行麻將.ipynb檔即可
+下載後，使用jupyternotebook執行麻將.ipynb檔即可
 
+## 介紹
 ### 規則
 
 建立一個檔案 rules.py ，其中包含三個主要的函數 canPeng , canChi , huMain，
