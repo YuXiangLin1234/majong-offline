@@ -1,7 +1,3 @@
----
-tags: Python
----
-
 # Method of Reproduction
 ## 執行
 使用jupyternotebook執行麻將.ipynb檔即可
