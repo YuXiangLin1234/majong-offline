@@ -2,6 +2,9 @@
 ## 執行
 下載後，使用jupyternotebook執行麻將.ipynb檔即可
 
+## youtube
+https://www.youtube.com/watch?v=SGDZYBPe0HQ
+
 ## 介紹
 ### 規則
 
