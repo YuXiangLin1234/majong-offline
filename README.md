@@ -1,4 +1,7 @@
 # Method of Reproduction
+## 內容
+這是一個離線、單人版與電腦對打電腦的麻將
+
 ## 執行
 下載後，使用jupyternotebook執行麻將.ipynb檔即可
 
@@ -6,8 +9,6 @@
 https://www.youtube.com/watch?v=SGDZYBPe0HQ
 
 ## 介紹
-### 遊戲內容
-這是一個離線、單人版與電腦對打電腦的麻將
 
 ### 規則
 
