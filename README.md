@@ -6,6 +6,9 @@
 https://www.youtube.com/watch?v=SGDZYBPe0HQ
 
 ## 介紹
+### 遊戲內容
+這是一個離線、單人版與電腦對打電腦的麻將
+
 ### 規則
 
 建立一個檔案 rules.py ，其中包含三個主要的函數 canPeng , canChi , huMain，
